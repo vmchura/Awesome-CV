@@ -84,7 +84,7 @@
 \RequirePackage{polyglossia}
 \setmainlanguage{spanish}
 
-\RequirePackage[opentype]{paratype}
+\RequirePackage{paratype}
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
 % Needed to deal a paragraphs
