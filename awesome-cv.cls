@@ -82,7 +82,6 @@
 \RequirePackage{fontawesome5}
 \RequirePackage{roboto}
 
-\RequirePackage{fontspec}
 \setmainfont{Times New Roman}
 \RequirePackage{polyglossia}
 \setmainlanguage{spanish}
