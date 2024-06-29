@@ -44,7 +44,8 @@
 
 %---
 
-\RequirePackage[spanish, es-noshorthands]{babel}
+\RequirePackage{polyglossia}
+\setmainlanguage{spanish}
 
 %-------------------------------------------------------------------------------
 %                3rd party packages
@@ -78,8 +79,8 @@
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
-\RequirePackage{fontawesome5}
-\RequirePackage{roboto}
+\RequirePackage{fontspec}
+\setmainfont{Times New Roman}
 \RequirePackage[default,opentype]{sourcesanspro}
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
