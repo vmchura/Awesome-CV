@@ -32,7 +32,7 @@
 
 ## What is Awesome CV?
 
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **R\`{e}sum\`{e}** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
 
 ## Donate
@@ -45,13 +45,13 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 ## Preview
 
-#### Résumé
+#### R\`{e}sum\`{e}
 
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+| [![R\`{e}sum\`{e}](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![R\`{e}sum\`{e}](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
 
 #### Cover Letter
 
@@ -64,7 +64,7 @@ You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/e
 
 ## Quick Start
 
-* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+* [**Edit R\`{e}sum\`{e} on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
 * [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
 
 **_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
