@@ -73,7 +73,6 @@
 % Needed to change line spacing in specific environment
 \RequirePackage{setspace}
 % Needed to manage fonts
-\RequirePackage[quiet]{fontspec}
 % To support LaTeX quoting style
 \defaultfontfeatures{Ligatures=TeX}
 % Needed to manage math fonts
@@ -82,7 +81,6 @@
 \RequirePackage{fontawesome5}
 \RequirePackage{roboto}
 
-\setmainfont{Times New Roman}
 \RequirePackage{polyglossia}
 \setmainlanguage{spanish}
 
