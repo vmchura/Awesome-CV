@@ -42,6 +42,11 @@
 \ProcessOptions\relax
 \LoadClass{article}
 
+%---
+
+\RequirePackage[spanish, es-noshorthands]{babel}
+\RequirePackage{polyglossia}
+\setmainlanguage{spanish}
 
 %-------------------------------------------------------------------------------
 %                3rd party packages
