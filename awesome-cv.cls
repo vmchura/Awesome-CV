@@ -79,9 +79,15 @@
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
+\RequirePackage{fontawesome5}
+\RequirePackage{roboto}
+
 \RequirePackage{fontspec}
 \setmainfont{Times New Roman}
-\RequirePackage[default,opentype]{sourcesanspro}
+\RequirePackage{polyglossia}
+\setmainlanguage{spanish}
+
+\RequirePackage[default,opentype]{paratype}
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
 % Needed to deal a paragraphs
@@ -169,9 +175,9 @@
 %-------------------------------------------------------------------------------
 \newcommand*{\headerfont}{\roboto}
 \newcommand*{\headerfontlight}{\robotolight}
-\newcommand*{\footerfont}{\sourcesanspro}
-\newcommand*{\bodyfont}{\sourcesanspro}
-\newcommand*{\bodyfontlight}{\sourcesansprolight}
+\newcommand*{\footerfont}{\paratype}
+\newcommand*{\bodyfont}{\paratype}
+\newcommand*{\bodyfontlight}{\paratypelight}
 
 %-------------------------------------------------------------------------------
 %                Configuration for styles
