@@ -45,6 +45,7 @@
 %---
 
 \RequirePackage[spanish, es-noshorthands]{babel}
+\setmainlanguage{spanish}
 
 %-------------------------------------------------------------------------------
 %                3rd party packages
