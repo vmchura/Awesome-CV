@@ -25,7 +25,12 @@
 \usepackage[spanish]{babel}  % For Spanish language support
 
 
+% If using XeLaTeX or LuaLaTeX
+\usepackage{fontspec}        % For loading system fonts
+\defaultfontfeatures{Ligatures=TeX}
 
+% Example of setting the main font to one that supports Spanish characters
+\setmainfont{Liberation Serif}
 
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
